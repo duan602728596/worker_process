@@ -45,4 +45,5 @@ worker_process(play, [3, 2, 6, 5], exe, add /* 函数可以依次传递下去 */
 * window 对象
 * document 对象
 * parent 对象
+
 所以所有的函数都不应该带如上的JavaScript对象。
